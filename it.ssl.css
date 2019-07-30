@@ -1,0 +1,10 @@
+@font-face{font-family:'foundry';
+src:url("HedleyNew-Lt-webfont.eot");
+src:url("HedleyNew-Lt-webfont.svg#HedleyNew-Lt-webfontregular") format('svg'),url("HedleyNew-Lt-webfont-1.eot#iefix") format('embedded-opentype'),url("HedleyNew-Lt-webfont.woff2") format('woff2'),url("HedleyNew-Lt-webfont.woff") format('woff'),url("HedleyNew-Lt-webfont.ttf") format('truetype');
+font-weight:400;
+font-style:normal}
+@font-face{font-family:'foundry';
+src:url("HedleyNew-Md-webfont.eot");
+src:url("HedleyNew-Md-webfont.svg#HedleyNew-Md-webfontregular") format('svg'),url("HedleyNew-Md-webfont-1.eot#iefix") format('embedded-opentype'),url("HedleyNew-Md-webfont.woff2") format('woff2'),url("HedleyNew-Md-webfont.woff") format('woff'),url("HedleyNew-Md-webfont.ttf") format('truetype');
+font-weight:700;
+font-style:normal}
